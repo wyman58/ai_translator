@@ -13,6 +13,7 @@ reportlab = "*"
 pandas = "*"
 loguru = "*"
 openai = "*"
+streamlit = "*"
 
 [dev-packages]
 

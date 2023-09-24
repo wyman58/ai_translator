@@ -1,0 +1,90 @@
+2023-09-24 20:52:34.722 | DEBUG    | __main__:main:33 - File Name: test.pdf
+2023-09-24 22:13:55.328 | DEBUG    | __main__:main:33 - File Name: tt/Users/chenwyman/Desktop/训练营/homework/ai_translator/ai_translator/main_UI.pye/Users/chenwyman/Desktop/训练营/homework/ai_translator/ai_translator/main_UI.pym/Users/chenwyman/Desktop/训练营/homework/ai_translator/ai_translator/main_UI.pypet/Users/chenwyman/Desktop/训练营/homework/ai_translator/ai_translator/main_UI.pye/Users/chenwyman/Desktop/训练营/homework/ai_translator/ai_translator/main_UI.pym/Users/chenwyman/Desktop/训练营/homework/ai_translator/ai_translator/main_UI.pypst/Users/chenwyman/Desktop/训练营/homework/ai_translator/ai_translator/main_UI.pye/Users/chenwyman/Desktop/训练营/homework/ai_translator/ai_translator/main_UI.pym/Users/chenwyman/Desktop/训练营/homework/ai_translator/ai_translator/main_UI.pyptt/Users/chenwyman/Desktop/训练营/homework/ai_translator/ai_translator/main_UI.pye/Users/chenwyman/Desktop/训练营/homework/ai_translator/ai_translator/main_UI.pym/Users/chenwyman/Desktop/训练营/homework/ai_translator/ai_translator/main_UI.pyp.t/Users/chenwyman/Desktop/训练营/homework/ai_translator/ai_translator/main_UI.pye/Users/chenwyman/Desktop/训练营/homework/ai_translator/ai_translator/main_UI.pym/Users/chenwyman/Desktop/训练营/homework/ai_translator/ai_translator/main_UI.pyppt/Users/chenwyman/Desktop/训练营/homework/ai_translator/ai_translator/main_UI.pye/Users/chenwyman/Desktop/训练营/homework/ai_translator/ai_translator/main_UI.pym/Users/chenwyman/Desktop/训练营/homework/ai_translator/ai_translator/main_UI.pypdt/Users/chenwyman/Desktop/训练营/homework/ai_translator/ai_translator/main_UI.pye/Users/chenwyman/Desktop/训练营/homework/ai_translator/ai_translator/main_UI.pym/Users/chenwyman/Desktop/训练营/homework/ai_translator/ai_translator/main_UI.pypf
+2023-09-24 22:15:39.571 | DEBUG    | __main__:main:33 - File Name: /Users/chenwyman/Desktop/训练营/homework/ai_translator/ai_translator/main_UI.py
+2023-09-24 22:18:42.587 | DEBUG    | __main__:main:34 - File Name: tt/Users/chenwyman/Desktop/训练营/homework/ai_translator/ai_translatore/Users/chenwyman/Desktop/训练营/homework/ai_translator/ai_translatorm/Users/chenwyman/Desktop/训练营/homework/ai_translator/ai_translatorpet/Users/chenwyman/Desktop/训练营/homework/ai_translator/ai_translatore/Users/chenwyman/Desktop/训练营/homework/ai_translator/ai_translatorm/Users/chenwyman/Desktop/训练营/homework/ai_translator/ai_translatorpst/Users/chenwyman/Desktop/训练营/homework/ai_translator/ai_translatore/Users/chenwyman/Desktop/训练营/homework/ai_translator/ai_translatorm/Users/chenwyman/Desktop/训练营/homework/ai_translator/ai_translatorptt/Users/chenwyman/Desktop/训练营/homework/ai_translator/ai_translatore/Users/chenwyman/Desktop/训练营/homework/ai_translator/ai_translatorm/Users/chenwyman/Desktop/训练营/homework/ai_translator/ai_translatorp.t/Users/chenwyman/Desktop/训练营/homework/ai_translator/ai_translatore/Users/chenwyman/Desktop/训练营/homework/ai_translator/ai_translatorm/Users/chenwyman/Desktop/训练营/homework/ai_translator/ai_translatorppt/Users/chenwyman/Desktop/训练营/homework/ai_translator/ai_translatore/Users/chenwyman/Desktop/训练营/homework/ai_translator/ai_translatorm/Users/chenwyman/Desktop/训练营/homework/ai_translator/ai_translatorpdt/Users/chenwyman/Desktop/训练营/homework/ai_translator/ai_translatore/Users/chenwyman/Desktop/训练营/homework/ai_translator/ai_translatorm/Users/chenwyman/Desktop/训练营/homework/ai_translator/ai_translatorpf
+2023-09-24 22:19:37.520 | DEBUG    | __main__:main:34 - File Name: /Users/chenwyman/Desktop/训练营/homework/ai_translator/ai_translator
+2023-09-24 22:22:32.280 | DEBUG    | __main__:main:34 - File Name: /Users/chenwyman/Desktop/训练营/homework/ai_translator/ai_translator/temptest.pdf
+2023-09-24 22:26:54.290 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ Test Data
+This dataset contains two test samples provided by ChatGPT, an AI language model by OpenAI.
+These samples include a markdown table and an English text passage, which can be used to test an
+English-to-Chinese translation software supporting both text and table formats.
+Text testing
+The quick brown fox jumps over the lazy dog. This pangram contains every letter of the English
+alphabet at least once. Pangrams are often used to test fonts, keyboards, and other text-related
+tools. In addition to English, there are pangrams in many other languages. Some pangrams are more
+difficult to construct due to the unique characteristics of the language.
+Table Testing
+2023-09-24 22:26:54.298 | DEBUG    | translator.pdf_parser:parse_pdf:54 - [table]
+[Fruit, Color, Price (USD)] [Apple, Red, 1.20] [Banana, Yellow, 0.50] [Orange, Orange, 0.80] [Strawberry, Red, 2.50] [Blueberry, Blue, 3.00] [Kiwi, Green, 1.00] [Mango, Orange, 1.50] [Grape, Purple, 2.00]
+2023-09-24 22:26:54.355 | DEBUG    | translator.pdf_translator:translate_pdf:19 - 翻译为中文：Test Data
+This dataset contains two test samples provided by ChatGPT, an AI language model by OpenAI.
+These samples include a markdown table and an English text passage, which can be used to test an
+English-to-Chinese translation software supporting both text and table formats.
+Text testing
+The quick brown fox jumps over the lazy dog. This pangram contains every letter of the English
+alphabet at least once. Pangrams are often used to test fonts, keyboards, and other text-related
+tools. In addition to English, there are pangrams in many other languages. Some pangrams are more
+difficult to construct due to the unique characteristics of the language.
+Table Testing
+2023-09-24 22:29:21.541 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ Test Data
+This dataset contains two test samples provided by ChatGPT, an AI language model by OpenAI.
+These samples include a markdown table and an English text passage, which can be used to test an
+English-to-Chinese translation software supporting both text and table formats.
+Text testing
+The quick brown fox jumps over the lazy dog. This pangram contains every letter of the English
+alphabet at least once. Pangrams are often used to test fonts, keyboards, and other text-related
+tools. In addition to English, there are pangrams in many other languages. Some pangrams are more
+difficult to construct due to the unique characteristics of the language.
+Table Testing
+2023-09-24 22:29:21.547 | DEBUG    | translator.pdf_parser:parse_pdf:54 - [table]
+[Fruit, Color, Price (USD)] [Apple, Red, 1.20] [Banana, Yellow, 0.50] [Orange, Orange, 0.80] [Strawberry, Red, 2.50] [Blueberry, Blue, 3.00] [Kiwi, Green, 1.00] [Mango, Orange, 1.50] [Grape, Purple, 2.00]
+2023-09-24 22:29:21.600 | DEBUG    | translator.pdf_translator:translate_pdf:19 - 翻译为中文：Test Data
+This dataset contains two test samples provided by ChatGPT, an AI language model by OpenAI.
+These samples include a markdown table and an English text passage, which can be used to test an
+English-to-Chinese translation software supporting both text and table formats.
+Text testing
+The quick brown fox jumps over the lazy dog. This pangram contains every letter of the English
+alphabet at least once. Pangrams are often used to test fonts, keyboards, and other text-related
+tools. In addition to English, there are pangrams in many other languages. Some pangrams are more
+difficult to construct due to the unique characteristics of the language.
+Table Testing
+2023-09-24 22:29:31.791 | INFO     | translator.pdf_translator:translate_pdf:21 - 测试数据
+这个数据集包含了ChatGPT提供的两个测试样本，ChatGPT是OpenAI开发的一种AI语言模型。
+这些样本包括一个Markdown表格和一个英文文本段落，可用于测试同时支持文本和表格格式的英译中翻译软件。
+文本测试
+快速的棕色狐狸跳过懒狗。这个全字母句至少包含了英语字母表中的每个字母。全字母句通常用于测试字体、键盘和其他与文本相关的工具。除了英语之外，还有许多其他语言的全字母句。由于语言的独特特点，有些全字母句构造起来更困难。
+2023-09-24 22:29:31.794 | DEBUG    | translator.pdf_translator:translate_pdf:19 - 翻译为中文，保持间距（空格，分隔符），以表格形式返回：
+[Fruit, Color, Price (USD)] [Apple, Red, 1.20] [Banana, Yellow, 0.50] [Orange, Orange, 0.80] [Strawberry, Red, 2.50] [Blueberry, Blue, 3.00] [Kiwi, Green, 1.00] [Mango, Orange, 1.50] [Grape, Purple, 2.00]
+2023-09-24 22:29:37.757 | INFO     | translator.pdf_translator:translate_pdf:21 - 水果	颜色	价格（美元）
+苹果	红色	1.20
+香蕉	黄色	0.50
+橙子	橙色	0.80
+草莓	红色	2.50
+蓝莓	蓝色	3.00
+猕猴桃	绿色	1.00
+芒果	橙色	1.50
+葡萄	紫色	2.00
+2023-09-24 22:29:37.757 | DEBUG    | book.content:set_translation:49 - 水果	颜色	价格（美元）
+苹果	红色	1.20
+香蕉	黄色	0.50
+橙子	橙色	0.80
+草莓	红色	2.50
+蓝莓	蓝色	3.00
+猕猴桃	绿色	1.00
+芒果	橙色	1.50
+葡萄	紫色	2.00
+2023-09-24 22:29:37.758 | DEBUG    | book.content:set_translation:52 - [['水果', '颜色', '价格（美元）'], ['苹果', '红色', '1.20'], ['香蕉', '黄色', '0.50'], ['橙子', '橙色', '0.80'], ['草莓', '红色', '2.50'], ['蓝莓', '蓝色', '3.00'], ['猕猴桃', '绿色', '1.00'], ['芒果', '橙色', '1.50'], ['葡萄', '紫色', '2.00']]
+2023-09-24 22:29:37.760 | DEBUG    | book.content:set_translation:55 -     水果  颜色 价格（美元）
+0   苹果  红色   1.20
+1   香蕉  黄色   0.50
+2   橙子  橙色   0.80
+3   草莓  红色   2.50
+4   蓝莓  蓝色   3.00
+5  猕猴桃  绿色   1.00
+6   芒果  橙色   1.50
+7   葡萄  紫色   2.00
+2023-09-24 22:29:37.775 | INFO     | translator.writer:_save_translated_book_markdown:83 - pdf_file_path: /Users/chenwyman/Desktop/训练营/homework/ai_translator/ai_translator/temp/test.pdf
+2023-09-24 22:29:37.776 | INFO     | translator.writer:_save_translated_book_markdown:84 - 开始翻译: /Users/chenwyman/Desktop/训练营/homework/ai_translator/ai_translator/temp/test_translated.md
+2023-09-24 22:29:37.776 | INFO     | translator.writer:_save_translated_book_markdown:108 - 翻译完成: /Users/chenwyman/Desktop/训练营/homework/ai_translator/ai_translator/temp/test_translated.md
