@@ -33,7 +33,7 @@ The OpenAI Translator is still in its early stages of development, and I'm activ
 - [X] Flexible configuration through a YAML file or command-line arguments.
 - [X] Timeouts and error handling for robust translation operations.
 - [X] Modular and object-oriented design for easy customization and extension.
-- [ ] Implement a graphical user interface (GUI) for easier use.
+- [X] Implement a graphical user interface (GUI) for easier use.
 - [ ] Add support for batch processing of multiple PDF files.
 - [ ] Create a web service or API to enable usage in web applications.
 - [ ] Add support for other languages and translation directions.
@@ -99,6 +99,10 @@ export GLM_MODEL_URL="http://xxx:xx"
 python ai_translator/main.py --model_type GLMModel --glm_model_url $GLM_MODEL_URL --book your_book.pdf 
 ```
 
+#### Using GUI(based on streamlit)
+```
+streamlit run ./ai_translator/main_UI.py
+```
 ## License
 
 This project is licensed under the GPL-3.0 License. See the [LICENSE](LICENSE) file for details.
